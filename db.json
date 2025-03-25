@@ -1,9 +1,41 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "fugitives": [
+      {
+        "id": 1,
+        "name": "DARREN ANTHONY ROBINSON",
+        "image": "images/antony.png",
+        "description": "Wanted for armed robbery."
+      },
+      {
+        "id": 2,
+        "name": "ISMAIL SHALASH",
+        "image": "images/ismail.png",
+        "description": "Crime : Unlawfull abductions."
+      },
+      {
+        "id": 3,
+        "name": "ROMAN SEMENOV",
+        "image": "images/roman.png",
+        "description": "Crime : Murder, grievous bodily injury."
+      },
+      {
+        "id": 4,
+        "name": "ROSECOE MCMILLAN",
+        "image": "images/roscoe.png",
+        "description": "Crime : Suspected in multiple fraud cases."
+      },
+      {
+        "id": 5,
+        "name": "SILVIU-FLORIN SPIRIDON",
+        "image": "images/silviu.png",
+        "description": "Crime : Illicit trafficking in narcotic drugs."
+      },
+      {
+        "id": 6,
+        "name": "NATALIA WOLF",
+        "image": "images/wolf.png",
+        "description": "crime : Escaped convict, considered dangerous."
+      }
+    ]
+  }
+  
